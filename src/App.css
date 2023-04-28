@@ -1,0 +1,146 @@
+
+body{
+    background-color: rgba(188, 254, 254, 0.559);
+}
+.wed--name{
+    text-align: center;
+    color:black;
+    
+}
+.App{
+    margin:0 auto;
+   
+}
+.journal--title{
+    color:white;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgba(244, 25, 25, 0.529);
+    border-top-right-radius: 20px;
+    border-top-left-radius:20px ;
+    width:695px;
+    height: 50px;
+    border:3px white solid;
+    margin-right:10px;
+ 
+  
+}
+.main{
+    display:flex;
+     padding:20px;
+     height: 200px;
+   
+    
+}
+
+
+.title{
+    background-color: white;
+    border-radius:20px;
+    width:700px;
+    margin: 0 auto;
+    border:3px white  solid;
+   
+}
+
+
+
+.location {
+    display:flex;
+    align-items: center;
+    justify-content:start;
+    margin-top: 10px;
+ 
+  
+}.location-icon{
+    color: red;
+
+}
+/* .mainpro{
+    border-radius: 30px;
+    width:710px;
+   
+
+} */
+/* .image{
+    width:100px;
+    height:250px;
+} */
+/* .about-travel{
+    height: 350px;
+
+} */
+.about-travel>h1{
+    font-weight: bold;
+    font-style: capitalise;
+    margin-top:-10px;
+    margin-left: 5px;
+}
+.date{
+
+    font-weight:bold ;
+    margin-top:-12px;
+}
+.about-travel>p{
+    margin-top:-2px;
+}
+
+
+
+ 
+
+
+
+
+
+
+/*  
+ .container{
+    width:350px;
+    height: 400px;
+    background-color:grey;
+    color:white;
+    border:solid 2px blueviolet;
+    border-radius: 3px;
+    margin: 0 auto;
+}
+
+.nav-bar{
+  display:flex;
+  justify-content: space-around;
+  background-color: white;
+  
+
+  }
+  .nav-bar>img{
+    width:40px;
+    height: 35px;
+    padding:10px;
+  }
+
+
+.nav-items{
+    list-style: none;
+    display:flex;
+    color:black;
+  
+    
+    
+}
+.main>h1{
+    font-size: 10px;
+    padding:20px 100px;   
+}
+.main>ul>li::marker{
+    color:aqua;
+    font-size:1.4em;
+}
+.nav-items>li{
+
+    padding:10px;
+} 
+.main{
+    background: grey url("./assets/react.svg") no-repeat  right 100%;
+   
+} */
+
